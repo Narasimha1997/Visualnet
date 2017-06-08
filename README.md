@@ -1,5 +1,5 @@
 <h1>VisualNet</h1>
-<p>VisualNet provides an easy to use interface to use inceptionv3 model</p>
+<p>VisualNet provides an  easy to use interface for inceptionv3 model</p>
 <h2>Brief summary</h2>
 <p>TensorFlow is a machine learning computational library which uses high level parallelism for running machine learning models built using Deep nueral nets, Nueral nets require lots of computing to be done and they can be executed only on large distributed systems with high-end resources. But TensorFlow made it possible to train and run nueral network on wide range of devices.
 Tensor flow is a platform for expressing machine learning algorithms. TensorFlow can run and train any machine learning algorithm on any device, because of TensorFlow I'm able to build Visualnet on my laptop.
